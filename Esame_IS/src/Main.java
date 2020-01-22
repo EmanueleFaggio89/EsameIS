@@ -9,7 +9,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		
+		System.out.println("ciao");
 		Cliente c1 = new Cliente("alberto","pass","81","5333");
 		Cliente c2 = new Cliente("ele","es","22","11");
 		
